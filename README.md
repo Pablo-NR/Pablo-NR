@@ -7,7 +7,7 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="center">About me
+<h3 align="center">About me:</h3>
   <ul align="center">
     <p>🌱 I’m currently learning <strong>IMF Smart Education Cibersecurity Master</strong></p>
     <p>🔭 I’m currently working on <strong>-</strong></p>
