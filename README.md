@@ -7,10 +7,10 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+<h3 align="center">About me
   <ul align="center">
-    <p>🔭 I’m currently working on <strong>-</strong></p>
     <p>🌱 I’m currently learning <strong>IMF Smart Education Cibersecurity Master</strong></p>
+    <p>🔭 I’m currently working on <strong>-</strong></p>
     <p>📫 How to reach me <strong>pablo.n.rueda@gmail.com</strong></p>
   </ul>
 
