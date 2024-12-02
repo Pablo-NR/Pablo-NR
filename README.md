@@ -1,8 +1,9 @@
 
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:006400,50:004d00,100:003300&height=250&section=header&text=Pablo%20Navarro%20Rueda&fontSize=35&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://github.com/Pablo-NR/Pablo-NR/blob/main/Banner.jpeg"
   alt="header"/>
+  <h3 align="center">Hi! I'm Pablo Navarro Rueda</h3>
 </div>
 
 <!-- ABOUT YOU -->
